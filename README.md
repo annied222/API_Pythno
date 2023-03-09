@@ -5,7 +5,7 @@
 * Create Plots to Showcase the Relationship Between Weather Variables and Latitude
   * Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code
 
-  ![image](https://user-images.githubusercontent.com/113384120/224121082-f6d50e39-ee65-458d-8986-ddcc089528d8.png)
+   ![image](https://user-images.githubusercontent.com/113384120/224121082-f6d50e39-ee65-458d-8986-ddcc089528d8.png)
 
   * Create a scatter plot to showcase the relationship between Latitude vs. Temperature 
   
@@ -21,7 +21,7 @@
 
   * Create a scatter plot to showcase the relationship between Latitude vs. Wind Speed 
   
-  ![image](https://user-images.githubusercontent.com/113384120/224121534-dc761af8-6088-415d-bdb2-2402bf2b844b.png)
+  ![54c08f0a-dd60-4ea1-827a-3a3b320565b2](https://user-images.githubusercontent.com/113384120/224121703-72a9cbfc-6465-44de-b667-7f70e1653ad3.png)
 
 
 * Compute Linear Regression for Each Relationship (40 points)
