@@ -2,12 +2,27 @@
 
 ## Part 1: WeatherPy:
 
-* Create Plots to Showcase the Relationship Between Weather Variables and Latitude (30 points)
-  * Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code (10 points)
-  * Create a scatter plot to showcase the relationship between Latitude vs. Temperature (5 points)
-  * Create a scatter plot to showcase the relationship between Latitude vs. Humidity (5 points)
-  * Create a scatter plot to showcase the relationship between Latitude vs. Cloudiness (5 points)
-  * Create a scatter plot to showcase the relationship between Latitude vs. Wind Speed (5 points)
+* Create Plots to Showcase the Relationship Between Weather Variables and Latitude
+  * Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code
+
+  ![image](https://user-images.githubusercontent.com/113384120/224121082-f6d50e39-ee65-458d-8986-ddcc089528d8.png)
+
+  * Create a scatter plot to showcase the relationship between Latitude vs. Temperature 
+  
+  ![image](https://user-images.githubusercontent.com/113384120/224121322-b0fbee75-01a3-4c2e-a8d5-865ee3ebe6a5.png)
+
+  * Create a scatter plot to showcase the relationship between Latitude vs. Humidity 
+  
+  ![image](https://user-images.githubusercontent.com/113384120/224121424-d61956b0-e4ce-47cc-a731-c5f352ca8484.png)
+
+  * Create a scatter plot to showcase the relationship between Latitude vs. Cloudiness 
+  
+  ![image](https://user-images.githubusercontent.com/113384120/224121483-a5036ecb-98e1-482d-ad20-8596aedbd17a.png)
+
+  * Create a scatter plot to showcase the relationship between Latitude vs. Wind Speed 
+  
+  ![image](https://user-images.githubusercontent.com/113384120/224121534-dc761af8-6088-415d-bdb2-2402bf2b844b.png)
+
 
 * Compute Linear Regression for Each Relationship (40 points)
   * Linear regression scatter plot for Northern Hemisphere: Temperature (C) vs. Latitude (5 points)
